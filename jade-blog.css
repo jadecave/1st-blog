@@ -1,0 +1,64 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: rgba(211, 94, 94, 0.342);
+}
+
+.divnav {
+  margin: 2px;
+  border: black 2px solid;
+  background-color: rgba(46, 218, 11, 0.377);
+  padding: 8px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.divnav .home {
+  padding: 10px;
+}
+
+.divnav .about {
+  padding: 10px;
+}
+
+.divnav .contact {
+  padding: 10px;
+}
+
+
+.div2 span img {
+    float:unset;
+    padding-right: 10px;
+    
+}
+.div3 span img {
+    float: unset;
+    padding-right: 10px;
+    
+}
+
+.div4 span img {
+    float: unset;
+    padding-right: 10px;
+    
+}
+
+
+
+.divnav a:link {
+  color: black;
+  text-emphasis: bold;
+  text-decoration: none;
+}
+.divnav a:visited {
+    color: blueviolet;
+  }
+
+.divnav a:hover {
+  color: chartreuse;
+}
+
+.divnav a:active {
+  color: magenta;
+}
+
+
